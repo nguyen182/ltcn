@@ -78,7 +78,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(41, 99);
+            label1.Location = new Point(41, 115);
             label1.Name = "label1";
             label1.Size = new Size(119, 25);
             label1.TabIndex = 0;
@@ -86,7 +86,7 @@
             // 
             // txtMaSV
             // 
-            txtMaSV.Location = new Point(164, 96);
+            txtMaSV.Location = new Point(164, 112);
             txtMaSV.Name = "txtMaSV";
             txtMaSV.Size = new Size(150, 31);
             txtMaSV.TabIndex = 1;
@@ -105,7 +105,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(41, 143);
+            label2.Location = new Point(41, 159);
             label2.Name = "label2";
             label2.Size = new Size(91, 25);
             label2.TabIndex = 2;
@@ -114,7 +114,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(41, 192);
+            label3.Location = new Point(41, 208);
             label3.Name = "label3";
             label3.Size = new Size(62, 25);
             label3.TabIndex = 3;
@@ -122,7 +122,7 @@
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(117, 192);
+            txtEmail.Location = new Point(117, 208);
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new Size(150, 31);
             txtEmail.TabIndex = 4;
@@ -130,7 +130,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(370, 102);
+            label4.Location = new Point(370, 118);
             label4.Name = "label4";
             label4.Size = new Size(74, 25);
             label4.TabIndex = 5;
@@ -138,7 +138,7 @@
             // 
             // txtHoTen
             // 
-            txtHoTen.Location = new Point(454, 99);
+            txtHoTen.Location = new Point(454, 115);
             txtHoTen.Name = "txtHoTen";
             txtHoTen.Size = new Size(234, 31);
             txtHoTen.TabIndex = 6;
@@ -146,7 +146,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(370, 198);
+            label5.Location = new Point(370, 214);
             label5.Name = "label5";
             label5.Size = new Size(93, 25);
             label5.TabIndex = 7;
@@ -154,7 +154,7 @@
             // 
             // txtSdt
             // 
-            txtSdt.Location = new Point(493, 195);
+            txtSdt.Location = new Point(493, 211);
             txtSdt.Name = "txtSdt";
             txtSdt.Size = new Size(150, 31);
             txtSdt.TabIndex = 8;
@@ -162,7 +162,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(370, 146);
+            label6.Location = new Point(370, 162);
             label6.Name = "label6";
             label6.Size = new Size(78, 25);
             label6.TabIndex = 9;
@@ -171,7 +171,7 @@
             // radioButton1
             // 
             radioButton1.AutoSize = true;
-            radioButton1.Location = new Point(493, 146);
+            radioButton1.Location = new Point(493, 162);
             radioButton1.Name = "radioButton1";
             radioButton1.Size = new Size(75, 29);
             radioButton1.TabIndex = 11;
@@ -182,7 +182,7 @@
             // radioButton2
             // 
             radioButton2.AutoSize = true;
-            radioButton2.Location = new Point(597, 146);
+            radioButton2.Location = new Point(597, 162);
             radioButton2.Name = "radioButton2";
             radioButton2.Size = new Size(61, 29);
             radioButton2.TabIndex = 13;
@@ -193,7 +193,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(717, 148);
+            label7.Location = new Point(717, 165);
             label7.Name = "label7";
             label7.Size = new Size(54, 25);
             label7.TabIndex = 14;
@@ -202,7 +202,7 @@
             // nudDiem
             // 
             nudDiem.DecimalPlaces = 1;
-            nudDiem.Location = new Point(777, 146);
+            nudDiem.Location = new Point(777, 162);
             nudDiem.Maximum = new decimal(new int[] { 10, 0, 0, 0 });
             nudDiem.Name = "nudDiem";
             nudDiem.Size = new Size(180, 31);
@@ -211,7 +211,7 @@
             // dptNgaysinh
             // 
             dptNgaysinh.Format = DateTimePickerFormat.Custom;
-            dptNgaysinh.Location = new Point(138, 143);
+            dptNgaysinh.Location = new Point(138, 159);
             dptNgaysinh.Name = "dptNgaysinh";
             dptNgaysinh.Size = new Size(226, 31);
             dptNgaysinh.TabIndex = 16;
@@ -219,7 +219,7 @@
             // label8
             // 
             label8.AutoSize = true;
-            label8.Location = new Point(717, 99);
+            label8.Location = new Point(717, 115);
             label8.Name = "label8";
             label8.Size = new Size(76, 25);
             label8.TabIndex = 17;
@@ -228,7 +228,7 @@
             // cpoTrangthai
             // 
             cpoTrangthai.AutoSize = true;
-            cpoTrangthai.Location = new Point(717, 201);
+            cpoTrangthai.Location = new Point(717, 217);
             cpoTrangthai.Name = "cpoTrangthai";
             cpoTrangthai.Size = new Size(94, 25);
             cpoTrangthai.TabIndex = 18;
@@ -237,7 +237,7 @@
             // cboLop
             // 
             cboLop.FormattingEnabled = true;
-            cboLop.Location = new Point(799, 99);
+            cboLop.Location = new Point(799, 114);
             cboLop.Name = "cboLop";
             cboLop.Size = new Size(182, 33);
             cboLop.TabIndex = 19;
@@ -245,7 +245,7 @@
             // cboTrangthai
             // 
             cboTrangthai.FormattingEnabled = true;
-            cboTrangthai.Location = new Point(814, 192);
+            cboTrangthai.Location = new Point(814, 209);
             cboTrangthai.Name = "cboTrangthai";
             cboTrangthai.Size = new Size(182, 33);
             cboTrangthai.TabIndex = 20;
